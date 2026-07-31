@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-I'm an aspiring Data Analyst who enjoys turning raw data into clear, actionable insights. My core skills include:
+I'm a Data Analyst who enjoys turning raw data into clear, actionable insights. My core skills include:
   - **Excel**: Advanced dynamic formulas, Power Query, Power Pivot, DAX, ETL, pivot tables, scenario planning, and more.
   - **Power BI**: Designing interactive dashboards and reports, data modelling, and advanced visualization techniques.
   - **SQL**: Writing complex queries to extract, transform, and analyze data from relational databases.
